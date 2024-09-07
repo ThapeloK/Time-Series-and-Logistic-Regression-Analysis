@@ -56,11 +56,11 @@ This project consists of two main analyses:
 ### 1. Weather Data Exploration
 - **Density Plot** of `gmin` (Grass Minimum Temperature) showing the distribution skewed towards higher temperatures.
 
-![Density Plot](images/Density_Plot_For_Grass_Minimum_Temperature.png)
+![Density Plot](Images/Density_Plot_For_Grass_Minimum_Temperature.png)
 
 - **Outlier Detection** before and after handling using IQR.
 
-![Outliers Before](images/outliers_before.png) ![Outliers After](images/outliers_after.png)
+![Outliers Before](Images/outliers_before.png) ![Outliers After](Images/outliers_after.png)
 
 ### 2. Time Series Modeling
 - **Raw Time Series Plot** for `gmin` from 1942-2023.
@@ -69,7 +69,7 @@ This project consists of two main analyses:
 
 - **ARIMA ACF & PACF** plots for model diagnosis.
 
-![ACF Plot & PACF Plot](images/ACF_&_PACF.png)
+![ACF Plot & PACF Plot](Images/ACF_&_PACF.png)
 
 ### 3. Logistic Regression Results
 <!-- - **ROC Curve** showing model performance with an AUC of 0.9259.
@@ -78,7 +78,7 @@ This project consists of two main analyses:
 
 - **Correlation Heatmap** for numerical variables in the cardiac dataset.
 
-![Heatmap](images/heatmap.png)
+![Heatmap](Images/heatmap.png)
 
 ---
 
